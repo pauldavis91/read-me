@@ -1,2 +1,2 @@
 # read-me
-just for a horror
+just for fun
